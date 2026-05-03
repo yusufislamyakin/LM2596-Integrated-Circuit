@@ -1,4 +1,4 @@
-# Transistor LED Driver PCB
+# LM2596 Buck Converter
 
 ## Overview
 This project is a DC-DC buck converter designed using the LM2596.
