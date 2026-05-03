@@ -49,3 +49,8 @@ It rapidly switches the internal transistor on and off, transferring energy thro
 ## Project Files
 
 You can find the complete KiCad project files in the `kicad` folder, including schematic and PCB layout.
+
+## Production Files
+
+- [Download Gerber Files](gerber/gerber.zip)
+- Ready for PCB manufacturing (JLCPCB / PCBWay)
