@@ -52,4 +52,4 @@ You can find the complete KiCad project files in the `kicad` folder, including s
 
 ## Production Files
 
--- [Gerber Folder](https://github.com/yusufislamyakin/LM2596-Integrated-Circuit/tree/main/gerber)
+[Download Gerber Files](https://github.com/yusufislamyakin/LM2596-Integrated-Circuit/raw/main/gerber/gerber.zip)
