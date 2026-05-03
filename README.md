@@ -1,9 +1,11 @@
-# LM2596 Buck Converter
+# LM2596 5V Buck Converter PCB
 
 ## Overview
-This project is a DC-DC buck converter designed using the LM2596.
-It steps down a 12V input voltage to a regulated 5V output.
-The circuit is designed and implemented in KiCad, including both schematic and PCB layout.
+- This project is a DC-DC buck converter designed using the LM2596.
+- It steps down a 12V input voltage to a regulated 5V output.
+- The circuit is designed and implemented in KiCad, including both schematic and PCB layout.
+- Designed and implemented in KiCad
+- Includes schematic, PCB layout, and production files
 
 ## Working Principle
 The LM2596 operates as a switching regulator.
@@ -40,6 +42,7 @@ It rapidly switches the internal transistor on and off, transferring energy thro
 - The switching node (L1–D1 connection) is kept as small as possible.
 - Output capacitor is placed close to the inductor.
 - Feedback path is kept short and away from noisy areas.
+- PCB layout is optimized to minimize switching noise and improve efficiency
 
 ## Tools Used
 - KiCad
