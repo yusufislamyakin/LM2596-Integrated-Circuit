@@ -52,5 +52,7 @@ You can find the complete KiCad project files in the `kicad` folder, including s
 
 ## Production Files
 
-- [Download Gerber Files](gerber/gerber.zip)
+## Production Files
+
+- [Download Gerber Files](https://github.com/yusufislamyakin/LM2596-Integrated-Circuit/raw/main/gerber/gerber.zip)
 - Ready for PCB manufacturing (JLCPCB / PCBWay)
